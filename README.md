@@ -1,1 +1,1 @@
-# Codes-1
+Super simple stock market assignment
